@@ -12,9 +12,11 @@ namespace HelloWorld
         {
             var memes = "HELLO";
             Console.WriteLine("Henlo World");
-            Console.WriteLine(memes);
+            Console.WriteLine("I have changed something");
             Console.ReadLine();
             Console.WriteLine(memes);
+
+
             Console.ReadLine();
         }
     }
