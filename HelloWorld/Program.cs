@@ -14,6 +14,8 @@ namespace HelloWorld
             Console.WriteLine("Henlo World");
             Console.WriteLine(memes);
             Console.ReadLine();
+            Console.WriteLine(memes);
+            Console.ReadLine();
         }
     }
 }
